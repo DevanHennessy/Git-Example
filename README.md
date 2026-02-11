@@ -20,4 +20,8 @@ code
 - Cats
 - Rats
 
-  
+- [ ] Go home
+- [ ] Eat ramen
+- [ ] Drink all the water
+
+
