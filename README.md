@@ -20,7 +20,7 @@ code
 - Cats
 - Rats
 
-- [ ] Go home
+- [x] Go home
 - [ ] Eat ramen
 - [ ] Drink all the water
 
